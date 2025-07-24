@@ -1,2 +1,1 @@
-# Weatherapp
-django-weaterapp
+#django-weaterapp
