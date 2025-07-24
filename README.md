@@ -1,2 +1,2 @@
-# Weathertracker
+# Weatherapp
 django-weaterapp
